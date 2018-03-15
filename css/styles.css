@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+.panel-heading {
+  margin-bottom: 3%;
+}
+
 ul {
   list-style: none;
   padding: 0;
